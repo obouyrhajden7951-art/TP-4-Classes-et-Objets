@@ -14,3 +14,6 @@
 
 
 # Exercice 4 : Gestion d’Auteurs, Livres et Bibliothèques 
+
+<img width="929" height="371" alt="image" src="https://github.com/user-attachments/assets/6ef788d0-b389-48c8-ad3e-9b06e6762248" />
+
