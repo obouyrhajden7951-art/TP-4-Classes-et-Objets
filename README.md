@@ -10,6 +10,7 @@
 
 # Exercice 3 : Gestion des articles
 
-<img width="927" height="242" alt="image" src="https://github.com/user-attachments/assets/df029a32-2591-4786-a696-113818c5d942" />
+<img width="923" height="292" alt="image" src="https://github.com/user-attachments/assets/54121c1e-a3dc-41fc-8833-e62630d700a5" />
+
 
 # Exercice 4 : Gestion d’Auteurs, Livres et Bibliothèques 
