@@ -21,3 +21,8 @@
 
 <img width="1276" height="283" alt="image" src="https://github.com/user-attachments/assets/fc121513-806f-436e-a698-b991b9bb4cd3" />
 
+# Exercice 6 :
+
+<img width="911" height="214" alt="image" src="https://github.com/user-attachments/assets/a1b37870-8290-405a-9ebe-d0bd3868361f" />
+
+
