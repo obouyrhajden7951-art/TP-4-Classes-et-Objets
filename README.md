@@ -17,3 +17,7 @@
 
 <img width="929" height="371" alt="image" src="https://github.com/user-attachments/assets/6ef788d0-b389-48c8-ad3e-9b06e6762248" />
 
+# Exercice 5 :
+
+<img width="1276" height="283" alt="image" src="https://github.com/user-attachments/assets/fc121513-806f-436e-a698-b991b9bb4cd3" />
+
